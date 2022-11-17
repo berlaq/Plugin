@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.berlaq.plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.berlaq.plugin.MyBundle
 
 class MyApplicationService {
 
